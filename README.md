@@ -1,7 +1,6 @@
 ## 👋 About Me
 
-- 🔭 I’m currently working on my project portfolio
-- 🌱 I’m currently learning React.js
+- 🔭 I’m currently working as a frontend web developer
 - 💬 Ask me about anything
 - 📫 How to reach me: lemh.dev@gmail.com
 
