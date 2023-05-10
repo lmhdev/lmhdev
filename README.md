@@ -19,7 +19,7 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img style="height: 48px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--762O-5e0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qy0ctxjhdgvvj6e4ra10.png"/> </a>
     <a href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/material-ui.png"/>
     <a href="https://ant.design/" target="_blank"> <img style="height: 48px" src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png"/> 
-    <a href="https://flutter.dev/" target="_blank"> <img style="height: 48px" src="https://icons8.com/icon/7I3BjCqe9rjG/flutter.png"/>    
+    <a href="https://flutter.dev/" target="_blank"> <img style="height: 48px" src="<svg xmlns="http://www.w3.org/2000/svg" width="89.65" height="111.105" id="flutter"><g fill-rule="evenodd"><path fill="#02539a" d="m56.226 111.105-30.06-29.868 16.616-16.906 46.867 46.774Z" data-name="Path 272"></path><g data-name="Group 25"><path fill="rgba(69,209,253,0.85)" d="m25.795 81.26 29.8-29.8h33.5L42.736 97.818Z" data-name="Path 273"></path><path fill="#45d1fd" d="m0 55.268 16.918 16.907L89.093 0H55.419Z" data-name="Path 274"></path></g></g></svg>"/>    
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/git.png"/>
     <a href="https://jestjs.io/" target="_blank"> <img style="height: 48px" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-svg-vector.svg"/>
     <a href="https://www.postman.com/" target="_blank"> <img style="height: 48px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/>
