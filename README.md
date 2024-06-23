@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-- 🔭 I’m currently working as a frontend developer
+- 🔭 I’m currently working as a software
 - 💼 Find me on LinkedIn: [linkedin.com/in/leminhhoang/](https://www.linkedin.com/in/leminhhoang/)
 - 💬 Ask me about anything
 - 📫 How to reach me: lemh.dev@gmail.com
